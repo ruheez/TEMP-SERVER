@@ -20,7 +20,7 @@ Before you get started, make sure you have the following:<br>
 (you can sign up for free)
 
 ## Installation
-[![Deploy on Railway](https://railway.app/button.svg)](wiki)
+[![Deploy on Railway](https://railway.app/button.svg)](https://github.com/kavidu-dilhara/Kali-Linux-VPS/blob/main/deploy.md)
 
 ## Limitations
 
