@@ -2,14 +2,15 @@
 <p align="center"><img src="https://github.com/kavidu-dilhara/Kali-Linux-VPS/blob/main/img/kali-logo.jpeg?resize=1024%2C555&amp;ssl=1" alt="kali"></p>
 <h5 align="left"> This repository provides instructions and scripts for creating a Kali Linux virtual private server (VPS) using a Kali Linux Docker image, Railway, and Ngrok.(Completely free) </h5>
 
-[![GitHub stars](https://img.shields.io/github/stars/kavidu-dilhara/Kali-Linux-VPS.svg)](https://github.com/kavidu-dilhara/Kali-Linux-VPS/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/kavidu-dilhara/Kali-Linux-VPS.svg)](https://github.com/kavidu-dilhara/Kali-Linux-VPS/network/members)
+<center>
+
+[![GitHub stars](https://img.shields.io/github/stars/kavidu-dilhara/Kali-Linux-VPS?style=social)](https://github.com/kavidu-dilhara/Kali-Linux-VPS/stargazers)
+![GitHub fork](https://img.shields.io/github/forks/kavidu-dilhara/Kali-Linux-VPS?style=social)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/kavidu-dilhara/Kali-Linux-VPS/blob/master/LICENSE)
-[![Build Status](https://travis-ci.com/kavidu-dilhara/Kali-Linux-VPS.svg?branch=master)](https://travis-ci.com/kavidu-dilhara/Kali-Linux-VPS)
-[![Coverage Status](https://coveralls.io/repos/github/kavidu-dilhara/Kali-Linux-VPS/badge.svg?branch=master)](https://coveralls.io/github/kavidu-dilhara/Kali-Linux-VPS?branch=master)
 [![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/kavidu-dilhara/Kali-Linux-VPS/releases)
 [![Last Commit](https://img.shields.io/github/last-commit/kavidu-dilhara/Kali-Linux-VPS.svg)](https://github.com/kavidu-dilhara/Kali-Linux-VPS/commits/master)
-
+ 
+</center>
 
 ## Prerequisites
 Before you get started, make sure you have the following:<br>
