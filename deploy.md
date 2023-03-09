@@ -9,7 +9,7 @@ First, you'll need to fork this repository to your GitHub account. You can do th
 
 - Start a New Project on raliway
 
-Next, sign up for an account on [raliway.app](https://raliway.app) and create a new project.
+Next, sign up for an account on [raliway.app](https://railway.app/dashboard) and create a new project.
 
 ![Create a new project on raliway](https://github.com/kavidu-dilhara/Kali-Linux-VPS/blob/main/img/1.jpg)
 
@@ -21,8 +21,8 @@ Choose "GitHub" as the deployment option and select the forked repository.
 
 Once your project is set up, go to the "Variables" section and add two variables:
 
-- `ngrok_token`: This is your [ngrok](https://dashboard.ngrok.com/get-started/your-authtoken) authentication token.
-- `password`: This is the password you want to set for the Kali Linux VPS.
+- `NGROK_TOKEN`: This is your [ngrok](https://dashboard.ngrok.com/get-started/your-authtoken) authentication token.
+- `Password`: This is the password you want to set for the Kali Linux VPS.
 
 ![Add variables in raliway](https://github.com/kavidu-dilhara/Kali-Linux-VPS/blob/main/img/7.jpg)
 ![Add variables in raliway](https://github.com/kavidu-dilhara/Kali-Linux-VPS/blob/main/img/8.jpg)
