@@ -39,3 +39,5 @@ You need to replace your own url and port
 
 ### You've successfully installed Kali Linux GUI in Raliway
 ![Successful](https://github.com/kavidu-dilhara/Kali-Linux-VPS/blob/main/img/14.jpg)
+
+fix sudo error [Issue](https://github.com/kavidu-dilhara/Kali-Linux-VPS/issues/1#issuecomment-1480050821)
